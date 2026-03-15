@@ -1,11 +1,5 @@
 # Chinese Guzheng Music Tool
 
-## Authors
-- **Jinnan Wang** (s3997928)
-- **Ruike Yuan** (s3789659)
-
----
-
 ## 1. Project Aims
 
 This project aims to develop an AI-generated traditional Chinese music tool, specifically focusing on the Guzheng, a classic Chinese musical instrument. Currently, most AI music generation models mainly produce western music styles — tools that can generate music perfectly in the style of traditional Chinese instruments are rare. Our goal is to fine-tune a generative music model so that it learns the unique characteristics of Guzheng music and creates new compositions in this style. By doing so, the tool can assist users, including those unfamiliar with Guzheng composition, by providing AI-generated music that captures the essence of this instrument.
